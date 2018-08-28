@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/mesasoft/redis/redis-node/redis_protect.sh $1 &
